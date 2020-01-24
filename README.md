@@ -11,3 +11,6 @@ python3 run.py --n FILE_NAME.c
 
 To get the documentaion within the terminal, type,
 python3 run.py --help
+
+
+Enjoy
